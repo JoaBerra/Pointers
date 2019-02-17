@@ -1,5 +1,5 @@
 //Arithmetic utilities
-#include "MyFunctions.h"
+#include "../headers/MyFunctions.h"
 
 int AddVariables(int *x, int *y){
   int result = 0;

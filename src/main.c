@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "MyFunctions.h"
+#include "../headers/MyFunctions.h"
 
 int main(int argc, char const *argv[]){
   int firstvalue = 5, secondvalue = 15, result = 0;

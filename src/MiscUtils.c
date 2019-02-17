@@ -1,5 +1,5 @@
 //Misc utilities
-#include "MyFunctions.h"
+#include "../headers/MyFunctions.h"
 
 int AddForty(int * px){
   const int FORTY = 40;
