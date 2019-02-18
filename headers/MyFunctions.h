@@ -7,5 +7,6 @@
 //Arithmetic functions
 int AddVariables(int *, int *);
 int AddForty(int *);
+int helenstest(int, int);
 
 #endif // !MY_FUNCTIONS
